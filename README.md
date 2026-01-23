@@ -50,7 +50,7 @@ what they are installing instead of blindly copy-pasting commands.
 A fully detailed walkthrough with explanations, screenshots,
 and troubleshooting notes is available here:
 
-👉 [https://www.musabase.com/the-complete-arch-linux-installation/](https://www.musabase.com/2025/03/the-complete-arch-linux-installation.html)
+👉 https://www.musabase.com/2025/03/the-complete-arch-linux-installation.html
 
 ## Why This Exists
 
