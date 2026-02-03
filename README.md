@@ -1,5 +1,6 @@
 # arch-linux-install-guide
 Clean Arch Linux installation notes (UEFI)
+
 # Arch Linux Installation – Clean & Minimal Setup (UEFI)
 
 This repository documents a clean, minimal, and practical Arch Linux
@@ -31,13 +32,13 @@ what they are installing instead of blindly copy-pasting commands.
 
 ## Installation Flow (High Level)
 
-1. Boot Arch ISO
-2. Verify network connectivity
-3. Partition disks
-4. Install base system
-5. Configure system
-6. Install bootloader
-7. Reboot into Arch
+1. Boot Arch ISO  
+2. Verify network connectivity  
+3. Partition disks  
+4. Install base system  
+5. Configure system  
+6. Install bootloader  
+7. Reboot into Arch  
 
 ## Important Notes
 
@@ -52,11 +53,44 @@ and troubleshooting notes is available here:
 
 👉 https://www.musabase.com/2025/03/the-complete-arch-linux-installation.html
 
+---
+
+## Desktop Environments (After Installation)
+
+Once the base Arch Linux system is installed, the next major step is
+choosing a desktop environment. Arch does not ship with a default
+desktop, so this choice depends entirely on your hardware and workflow.
+
+Available desktop environment notes:
+
+- **KDE Plasma** – Feature-rich and flexible, suitable as a daily driver  
+- **GNOME** – Clean and opinionated with a focused workflow  
+- **XFCE** – Lightweight, stable, and ideal for older hardware  
+
+Detailed notes are available in the following directory:
+
+👉 [desktop-environments/](desktop-environments/)
+
+Each desktop environment file links to a full step-by-step setup guide
+on MusaBase.
+
+---
+
+## What Comes Next
+
+After setting up a desktop environment, Arch Linux can be shaped into
+a stable daily driver or a gaming-focused system.
+
+Planned and related topics include:
+- Daily driver stability and maintenance
+- Linux gaming with Steam and Proton
+- Common troubleshooting notes (GRUB, initramfs, mirrors)
+
 ## Why This Exists
 
-Arch Linux installation can feel overwhelming due to the amount
-of choices involved. This documentation exists to provide a clear,
-practical starting point while respecting Arch philosophy.
+Arch Linux installation can feel overwhelming due to the number of
+choices involved. This documentation exists to provide a clear,
+practical starting point while respecting Arch Linux philosophy.
 
 ## References
 
