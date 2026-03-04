@@ -76,12 +76,44 @@ on MusaBase.
 
 ---
 
+## Hyprland (Wayland Tiling Compositor)
+
+Some users prefer tiling workflows instead of traditional desktop
+environments. Hyprland is a modern Wayland compositor that provides
+dynamic tiling, smooth animations, and highly customizable layouts.
+
+It allows Arch Linux users to build a keyboard-driven workflow while
+maintaining a visually polished desktop environment.
+
+This repository includes documentation for several Hyprland setups.
+
+Available Hyprland configurations:
+
+- **ML4W (My Linux For Work)** – Productivity-focused Hyprland setup  
+- **HyDE Project** – Visually refined Hyprland configuration  
+- **Caelestia Dotfiles** – Highly customized Hyprland environment  
+- **Jakoolit Hyprland** – Balanced setup suitable for daily use  
+- **End-4 Hyprland** – Advanced themes and visual customization  
+
+Hyprland documentation files:
+
+- [ML4W Hyprland](hyprland/ml4w-hyprland.md)
+- [HyDE Hyprland](hyprland/hyde-hyprland.md)
+- [Caelestia Hyprland](hyprland/caelestia-hyprland.md)
+- [Jakoolit Hyprland](hyprland/jakoolit-hyprland.md)
+- [End-4 Hyprland](hyprland/end-4-hyprland.md)
+
+Each file links to a full installation guide available on MusaBase.
+
+---
+
 ## What Comes Next
 
-After setting up a desktop environment, Arch Linux can be shaped into
-a stable daily driver or a gaming-focused system.
+After setting up a desktop environment or a Hyprland tiling workflow,
+Arch Linux can be shaped into a stable daily driver or a gaming-focused system.
 
 Planned and related topics include:
+
 - Daily driver stability and maintenance
 - Linux gaming with Steam and Proton
 - Common troubleshooting notes (GRUB, initramfs, mirrors)
