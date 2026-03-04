@@ -17,7 +17,7 @@ documented on MusaBase.
 - [ML4W (My Linux For Work)](ml4w-hyprland.md)
 - [HyDE Project](hyde-hyprland.md)
 - [Caelestia Dotfiles](caelestia-hyprland.md)
-- [Jakoolit Hyprland](jakoolit hyprland.md)
+- [Jakoolit Hyprland](jakoolit-hyprland.md)
 - [End-4 Hyprland](end-4-hyprland.md)
 
 ---
