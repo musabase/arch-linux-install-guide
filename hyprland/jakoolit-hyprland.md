@@ -36,7 +36,7 @@ screenshots, and troubleshooting notes is available here:
 
 # Related Hyprland Setups
 
-- [ML4W (My Linux For Work)](ml4w.md)
-- [HyDE Project](hyde.md)
-- [Caelestia Dotfiles](caelestia.md)
-- [End-4 Hyprland](end4.md)
+- [ML4W (My Linux For Work)](ml4w-hyprland.md)
+- [HyDE Project](hyde-hyprland.md)
+- [Caelestia Dotfiles](caelestia-hyprland.md)
+- [End-4 Hyprland](end-4-hyprland.md)
