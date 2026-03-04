@@ -34,7 +34,7 @@ screenshots, and troubleshooting notes is available here:
 
 # Related Hyprland Setups
 
-- [HyDE Project](hyde.md)
-- [Caelestia Dotfiles](caelestia.md)
-- [Jakoolit Hyprland](jakoolit.md)
-- [End-4 Hyprland](end4.md)
+- [HyDE Project](hyde-hyprland.md)
+- [Caelestia Dotfiles](caelestia-hyprland.md)
+- [Jakoolit Hyprland](jakoolit-hyprland.md)
+- [End-4 Hyprland](end-4-hyprland.md)
