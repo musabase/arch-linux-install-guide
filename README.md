@@ -55,58 +55,6 @@ and troubleshooting notes is available here:
 
 ---
 
-## Desktop Environments (After Installation)
-
-Once the base Arch Linux system is installed, the next major step is
-choosing a desktop environment. Arch does not ship with a default
-desktop, so this choice depends entirely on your hardware and workflow.
-
-Available desktop environment notes:
-
-- **KDE Plasma** – Feature-rich and flexible, suitable as a daily driver  
-- **GNOME** – Clean and opinionated with a focused workflow  
-- **XFCE** – Lightweight, stable, and ideal for older hardware  
-
-Detailed notes are available in the following directory:
-
-👉 [desktop-environments/](desktop-environments/)
-
-Each desktop environment file links to a full step-by-step setup guide
-on MusaBase.
-
----
-
-## Hyprland (Wayland Tiling Compositor)
-
-Some users prefer tiling workflows instead of traditional desktop
-environments. Hyprland is a modern Wayland compositor that provides
-dynamic tiling, smooth animations, and highly customizable layouts.
-
-It allows Arch Linux users to build a keyboard-driven workflow while
-maintaining a visually polished desktop environment.
-
-This repository includes documentation for several Hyprland setups.
-
-Available Hyprland configurations:
-
-- **ML4W (My Linux For Work)** – Productivity-focused Hyprland setup  
-- **HyDE Project** – Visually refined Hyprland configuration  
-- **Caelestia Dotfiles** – Highly customized Hyprland environment  
-- **Jakoolit Hyprland** – Balanced setup suitable for daily use  
-- **End-4 Hyprland** – Advanced themes and visual customization  
-
-Hyprland documentation files:
-
-- [ML4W Hyprland](hyprland/ml4w-hyprland.md)
-- [HyDE Hyprland](hyprland/hyde-hyprland.md)
-- [Caelestia Hyprland](hyprland/caelestia-hyprland.md)
-- [Jakoolit Hyprland](hyprland/jakoolit-hyprland.md)
-- [End-4 Hyprland](hyprland/end-4-hyprland.md)
-
-Each file links to a full installation guide available on MusaBase.
-
----
-
 ## What Comes Next
 
 After setting up a desktop environment or a Hyprland tiling workflow,
