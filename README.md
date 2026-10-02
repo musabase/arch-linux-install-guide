@@ -60,7 +60,7 @@ and troubleshooting notes is available here:
 Looking to set up a desktop afterward?
 
 - [arch-desktop-environments](https://github.com/musabase/arch-desktop-environments), KDE Plasma, GNOME, XFCE
-- [hyprland-dotfiles-notes](https://github.com/musabase/hyprland-dotfiles-notes), ML4W, HyDE, Caelestia, JaKooLit, End-4
+- [hyprland-dotfiles-notes](https://github.com/musabase/hyprland-dots), Caelestia, End-4, JaKooLit, HyDE, ML4W
 
 After setting up a desktop environment or a Hyprland tiling workflow,
 Arch Linux can be shaped into a stable daily driver or a gaming-focused system.
